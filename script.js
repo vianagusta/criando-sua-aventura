@@ -1,3 +1,4 @@
+//Gustavo Viana 3°C 02/10/2024
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
